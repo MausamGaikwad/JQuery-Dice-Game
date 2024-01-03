@@ -14,7 +14,7 @@ Welcome to the Dice Game! This simple web-based dice game allows two players to 
 ## Getting Started
 Clone the repository:
 
-1.```bash
+1. ```bash
  git clone https://github.com/MausamGaikwad/JQuery-Dice-Game.git
  
 2. Open the index.html file in your web browser.
