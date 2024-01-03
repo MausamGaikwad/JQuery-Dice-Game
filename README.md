@@ -13,12 +13,13 @@ Welcome to the Dice Game! This simple web-based dice game allows two players to 
 
 ## Getting Started
 Clone the repository:
-1. bash ```git clone https://github.com/MausamGaikwad/JQuery-Dice-Game.git
-3. Open the index.html file in your web browser.
-4. Play the game by clicking the "Roll Again" button.
+1. ```bash
+ git clone https://github.com/MausamGaikwad/JQuery-Dice-Game.git`
+2. Open the index.html file in your web browser.
+3. Play the game by clicking the "Roll Again" button.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 MAUSAM GAIKWAD
